@@ -1,5 +1,5 @@
 # IBSTAT
 Introductory Biostatistics for GTPB
 
-By Ana Cristina Paulo ab«ns Marta B. Lopes
+By Ana Cristina Paulo and Marta B. Lopes
 
